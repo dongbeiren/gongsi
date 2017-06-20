@@ -12,7 +12,7 @@ import com.aspose.words.SaveFormat;
 public class T {
 	
 	/**
-     * 获取license
+     * 获取license2
      * 
      * @return
      */
